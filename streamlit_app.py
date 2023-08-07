@@ -1,1 +1,2 @@
-Created this main python file
+Import streamlit
+streamlit.title('hello this is badge 2')
