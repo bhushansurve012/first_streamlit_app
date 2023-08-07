@@ -1,7 +1,8 @@
 import streamlit
 streamlit.title('hello this is badge 2')
-streamlit.header('Breakfast menu')
-streamlit.text('omega 3 & blueberry ')
-streamlit.text('kale')
-streamlit.text('hard-boiled')
+
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
 
