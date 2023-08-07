@@ -1,3 +1,2 @@
-Import streamlit
-
+import streamlit
 streamlit.title('hello this is badge 2')
